@@ -1,0 +1,2 @@
+C:\Desarrollo\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\POCOGen.exe.config
+C:\Desarrollo\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\POCOGen.pdb

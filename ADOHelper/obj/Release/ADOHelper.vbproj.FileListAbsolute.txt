@@ -1,0 +1,8 @@
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\bin\Release\ADOHelper.dll
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\bin\Release\ADOHelper.pdb
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\bin\Release\ADOHelper.xml
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\obj\Release\ADOHelper.vbproj.GenerateResource.Cache
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\obj\Release\ADOHelper.dll
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\obj\Release\ADOHelper.xml
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\obj\Release\ADOHelper.pdb
+C:\Desarrollo\Pruebas\POCOGenerator\ADOHelper\obj\Release\POCOGen.Resources.resources

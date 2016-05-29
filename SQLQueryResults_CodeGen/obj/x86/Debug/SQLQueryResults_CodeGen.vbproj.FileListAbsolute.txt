@@ -1,0 +1,17 @@
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\POCOGen.exe.config
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\POCOGen.pdb
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\SQLQueryResults_CodeGen.vbprojResolveAssemblyReference.cache
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\SQLQueryResults_CodeGen.frmMain.resources
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\SQLQueryResults_CodeGen.frmStoredProcedure.resources
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\SQLQueryResults_CodeGen.Resources.resources
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\SQLQueryResults_CodeGen.vbproj.GenerateResource.Cache
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\POCOGen.exe.manifest
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\POCOGen.application
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\POCOGen.exe
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\POCOGen.pdb
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\ADOHelper.dll
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\ADOHelper.pdb
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\bin\Debug\ADOHelper.xml
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\POCOGen.exe.manifest
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\POCOGen.application
+C:\Desarrollo\Pruebas\POCOGenerator\SQLQueryResults_CodeGen\obj\x86\Debug\POCOGen.exe
